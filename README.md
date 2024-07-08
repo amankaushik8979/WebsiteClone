@@ -1,0 +1,1 @@
+#This is a clone of Amazon website created using HTML and CSS. This website clone has only the landing page and is created only for self-practice.
